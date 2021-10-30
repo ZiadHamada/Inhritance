@@ -1,1 +1,2 @@
-# Inhritance
+# inheritance
+by Ziad Hamada
